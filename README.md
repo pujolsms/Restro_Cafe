@@ -4,16 +4,16 @@
 This is an online food menu service for Restore Cafe. When you visit the restaurant, you often use the QR code to load the PDF of the menu. It has no image and is not easy to select. So we created the menu app where you can see food images with the needed information and select your items easily. During such an unprecedented time and social distancing, online menu card technology is a boon!
 
 ```
-![image]()
+
 
 
 ## Live Demo
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO]() here!!
+Check out [FRONTEND LIVE DEMO](https://restrocafe-frontend.mayelinmaria.repl.co/) here!!
 
-Check out [API LIVE DEMO]() here!!
+Check out [API LIVE DEMO](https://restrocafebackend.mayelinmaria.repl.co) here!!
 
 ## Tech used
 
@@ -27,7 +27,7 @@ Check out [API LIVE DEMO]() here!!
 1. Git Clone
 
 ```
-git clone 
+git clone  https://github.com/pujolsms/Restro_Cafe.git
 ```
 
 2. Backend setting
